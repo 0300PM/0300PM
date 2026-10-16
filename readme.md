@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
+
 ---
+
 ##  Featured Projects
 
 🔹 **Reverse Proxy** – A lightweight yet complete reverse proxy written in Go.
@@ -31,6 +33,7 @@
 🔹 **CodeSprints** - A Many project rewrite and upgraded in vue with Tauri(optional) in one place ( organization ) https://github.com/CodeSprints
 
 🔹 **RyzeSpace** – C2C server resource rental platform   https://ryzespace.com/ | https://github.com/ryzespace
+
 ---
 
 <p align="center">
