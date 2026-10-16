@@ -50,7 +50,7 @@
 ---
 
 
-### Contact - 📧 Email: *dropmaze.biznes@gmail.com*
+### Contact  **dropmaze.biznes@gmail.com**
 ---
 
 
