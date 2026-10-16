@@ -38,11 +38,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=Xmausix&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-fast.vercel.app/api?username=0300PM&show_icons=true&theme=tokyonight"
     height="180"
   />
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xmausix&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0300PM&layout=compact&theme=tokyonight"
     height="180"
   />
 </p>
