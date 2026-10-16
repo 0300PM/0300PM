@@ -1,10 +1,4 @@
-# Hi, I'm Jakub (Xmausix)
-
-Fullstack Developer from Poland.
-I build clean, interactive web applications and enjoy working with modern technologies, exploring new tools, and turning ideas into real products.
-
----
-
+# Hi, I'm Jakub 
 ## About Me
 
 * Focused on workable solutions
@@ -23,9 +17,7 @@ I build clean, interactive web applications and enjoy working with modern techno
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
-
 ---
-
 ##  Featured Projects
 
 🔹 **Reverse Proxy** – A lightweight yet complete reverse proxy written in Go.
@@ -39,10 +31,7 @@ I build clean, interactive web applications and enjoy working with modern techno
 🔹 **CodeSprints** - A Many project rewrite and upgraded in vue with Tauri(optional) in one place ( organization ) https://github.com/CodeSprints
 
 🔹 **RyzeSpace** – C2C server resource rental platform   https://ryzespace.com/ | https://github.com/ryzespace
-
 ---
-
-##  GitHub Stats
 
 <p align="center">
   <img
@@ -57,8 +46,8 @@ I build clean, interactive web applications and enjoy working with modern techno
 
 ---
 
-## 📫 Contact
-- 📧 Email: *dropmaze.biznes@gmail.com*
+
+## Contact - 📧 Email: *dropmaze.biznes@gmail.com*
 ---
 
 
