@@ -28,7 +28,7 @@
 
 🔹 **PYFactory** – Game in pygame inspired factorio
 
-🔹 **CodeSprints** - A Many project rewrite and upgraded in vue with Tauri(optional) in one place ( organization ) https://github.com/CodeSprints
+🔹 **CodeSprints** - Many project with use vue/tauri or games in one place https://github.com/CodeSprints
 
 🔹 **RyzeSpace** – C2C server resource rental platform   https://ryzespace.com/ | https://github.com/ryzespace
 
